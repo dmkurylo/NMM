@@ -29,5 +29,5 @@
     "securityRequireUpToDateSecurityProviders": false,
     "securityRequireCompanyPortalAppIntegrity": true,
     "securityRequiredAndroidSafetyNetEvaluationType": "basic",
-    "scheduledActionsForRule": []
+    "scheduledActionsForRule"
 }
