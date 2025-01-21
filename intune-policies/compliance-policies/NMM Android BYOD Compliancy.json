@@ -2,6 +2,7 @@
     "_wap_tags": "Android",
     "@odata.type": "#microsoft.graph.androidWorkProfileCompliancePolicy",
     "description": null,
+    "displayName": "NMM Android BYOD Compliancy",
     "version": 1,
     "passwordRequired": true,
     "passwordMinimumLength": null,
